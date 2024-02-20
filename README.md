@@ -1,3 +1,5 @@
+Hi there
+
 # Neural Signal Processing (UCSD COGS118C)
 Welcome to Neural Signal Processing.
 This repo contains all the course material, including course documents, finished slides in .pdf, and assignments.
